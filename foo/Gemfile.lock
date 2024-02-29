@@ -6,7 +6,7 @@ GEM
     nokogiri (1.15.4-x86_64-linux)
       racc (~> 1.4)
     racc (1.7.2)
-    rack (2.2.8)
+    rack (2.2.8.1)
     rack-protection (2.2.4)
       rack
     ruby2_keywords (0.0.5)
